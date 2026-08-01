@@ -1,0 +1,23 @@
+[
+    {
+        "id": 2,
+        "title": "Dinner",
+        "amount": 300.0,
+        "category": "Food",
+        "date": "2026-08-01"
+    },
+    {
+        "id": 3,
+        "title": "Petrol",
+        "amount": 450.0,
+        "category": "Transport",
+        "date": "2026-08-01"
+    },
+    {
+        "id": 4,
+        "title": "Petrol",
+        "amount": 450.0,
+        "category": "Transport",
+        "date": "2026-08-01"
+    }
+]
